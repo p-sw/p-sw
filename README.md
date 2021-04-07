@@ -10,3 +10,7 @@
 + C/C++ (almost forgot)
 + Java/Javascript (Very basic only)
 + Python (Good)
+
+## Things
++ Game (Learning 3D)
++ Web Automation
