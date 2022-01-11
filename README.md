@@ -9,6 +9,3 @@
 
 ## Projects!
 Making some  
-
-### Contact
-![Discord](https://img.shields.io/discord/716300635330445365?label=discord%20contact&style=plastic)
