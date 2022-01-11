@@ -8,4 +8,5 @@
 + Python
 
 ## Projects!
-Making some  
++ TypeSense
+  + Automation program for (s0urce.io)[https://s0urce.io]
