@@ -9,4 +9,8 @@
 
 ## Projects!
 + TypeSense
-  + Automation program for (s0urce.io)[https://s0urce.io]
+  + Automation program for [s0urce.io](https://s0urce.io)
+  + Written in Python
++ HumanBenchmarker
+  + Automation program for [HumanBenchmark](https://humanbenchmark.com)
+  + Written in C#
