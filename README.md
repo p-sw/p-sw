@@ -1,4 +1,4 @@
-![logo2](https://user-images.githubusercontent.com/61446372/125215454-7f451c80-e2f6-11eb-8dbe-9f2c00f642ef.png)
+![ProfileLogo](https://user-images.githubusercontent.com/61446372/151501684-59625bb4-df21-4137-a380-e80a4edcccb7.png)
 # SSerVeGKR
 
 ## Language
