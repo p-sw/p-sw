@@ -15,6 +15,10 @@
 + [HumanBenchmarker](https://github.com/sserve-kr/HumanBenchmarker)
   + Automation program for [HumanBenchmark](https://humanbenchmark.com)
   + Written in C#
++ [HitomiTagBot](https://github.com/sserve-kr/HitomiTagBot)
+  + Get tag list from `hitomi.la`
+  + Discord bot to search tag and to add korean translation for tag.
+  + Written in Python - [pycord](https://docs.pycord.dev)
 
 ## Contact
 + Email - contact.only@sserve.me
