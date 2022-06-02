@@ -6,7 +6,7 @@
 + C / C++ (Learning it)
 + C# (Not completely)
 + Java (Also not completely)
-+ Python (Done in basics of python, and used for most of my projects.)
++ Python (Done with basics of python, and used for most of my projects.)
 
 ## Projects!
 + [TypeSense](https://github.com/sserve-kr/TypeSense)
