@@ -3,10 +3,10 @@
 
 
 ## Language
-+ C / C++
-+ C#
-+ Java
-+ Python
++ C / C++ (Learning it)
++ C# (Not completely)
++ Java (Also not completely)
++ Python (Done in basics of python, used for most of my projects.)
 
 ## Projects!
 + [TypeSense](https://github.com/sserve-kr/TypeSense)
