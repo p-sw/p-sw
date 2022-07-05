@@ -22,3 +22,7 @@
 
 ## Contact
 + Email - contact.only@sserve.me
+
+## ToDo
++ FlaskComponent - Component like vue.js in flask.
++ FlaskHTTPSClient - Multiple HTTPSConnection Manager (IDLE Selector).
