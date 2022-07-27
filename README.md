@@ -9,7 +9,6 @@ in South Korea.
 I don't like jekyll's category system.  
 So I made a blog with django, the best web framework in python.  
 
-
 ## Language
 + Python (Done with basics of python, and used for most of my projects.)
 + HTML & CSS & JAVASCRIPT (Not expert, but used in some projects)
@@ -29,6 +28,14 @@ So I made a blog with django, the best web framework in python.
 + [Django Blog](https://svdev.studio)
   + Written in Python Django
   + For series of posts
++ [STDICT Word Database](https://github.com/sserve-kr/STDICT-WORD-DB)
+  + Written in Python
+  + Get korean words in Korean Standard Dictionary
+  + Put korean words to database using SQLite3
++ [Simple Calculator](https://github.com/sserve-kr/simple-calculator)
+  + Written in Python
+  + All GUI elements have been implemented from scratch
+  + Created for practice of Pygame library
 
 ## Objectives
 + Learn how to make GUI in Python
