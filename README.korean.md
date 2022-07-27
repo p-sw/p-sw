@@ -25,7 +25,7 @@ Jekyll의 카테고리 시스템이 맘에 들지 않아서 Django를 이용해 
   + Alembic 템플릿을 사용했습니다.
 + [Django Blog](https://svdev.studio)
   + Python Django 프레임워크로 작성했습니다.
-+ [STDICT Word Database](https://github.com/sserve-kr/STDICT-WORD-DB)
++ [STDICT Word Database](https://github.com/sserve-kr/STDICT_WORD_DB)
   + 파이썬으로 작성했습니다.
   + 표준국어대사전 API를 이용해 단어를 받아옵니다.
   + SQLite3 라이브러리를 사용해 단어를 데이터베이스에 넣습니다.
