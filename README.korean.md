@@ -1,3 +1,4 @@
+[English](https://github.com/sserve-kr/sserve-kr/blob/main/README.md) | 한국어
 # 안녕하세요!
 한국의 학생이자 프로그래머입니다.  
 파이썬을 주로 다루고, 웹 개발을 배우고 있습니다.  
