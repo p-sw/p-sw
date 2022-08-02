@@ -1,5 +1,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sserve-kr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
+English | [한국어](https://github.com/sserve-kr/sserve-kr/blob/main/README.korean.md)
 # Hello!
 Programmer, Web Developer, Python.  
 I am a student & programmer  
@@ -10,7 +11,6 @@ in South Korea.
 [New blog + my profile](https://svdev.studio) for organized posts.  
 I don't like jekyll's category system.  
 So I made a blog with django, the best web framework in python.  
-
 
 ## Language
 + Python (Done with basics of python, and used for most of my projects.)
@@ -31,6 +31,14 @@ So I made a blog with django, the best web framework in python.
 + [Django Blog](https://svdev.studio)
   + Written in Python Django
   + For series of posts
++ [STDICT Word Database](https://github.com/sserve-kr/STDICT_WORD_DB)
+  + Written in Python
+  + Get korean words in Korean Standard Dictionary
+  + Put korean words to database using SQLite3
++ [Simple Calculator](https://github.com/sserve-kr/simple-calculator)
+  + Written in Python
+  + All GUI elements have been implemented from scratch
+  + Created for practice of Pygame library
 
 ## Objectives
 + Learn how to make GUI in Python
