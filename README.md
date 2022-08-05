@@ -17,7 +17,7 @@ in South Korea.
 + [Django Blog](https://svdev.studio)
 + [STDICT Word Database](https://github.com/sserve-kr/STDICT_WORD_DB)
 + [Simple Calculator](https://github.com/sserve-kr/simple-calculator)
-+ [QCS - Quick Clipboard Share](https://qcs.sserve.me)
++ [QCS - Quick Clipboard Share](https://qcs.sserve.work)
 
 ## Contact
 + Email - `contact.only@sserve.me`
