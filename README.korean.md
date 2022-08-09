@@ -10,13 +10,7 @@
 + HTML & CSS & JAVASCRIPT (완벽하지 않지만, 웹 개발에 약간 쓰입니다.)
 
 ## 프로젝트
-+ [TypeSense](https://github.com/sserve-kr/TypeSense)
-+ [HitomiTagBot](https://github.com/sserve-kr/HitomiTagBot)
-+ [Github Pages Blog](https://svblog.me)
-+ [Django Blog](https://svdev.studio)
-+ [STDICT Word Database](https://github.com/sserve-kr/STDICT_WORD_DB)
-+ [Simple Calculator](https://github.com/sserve-kr/simple-calculator)
-+ [QCS - Quick Clipboard Share](https://qcs.sserve.work)
+[내 프로젝트](https://projects.sserve.work)
 
 ## 연락처
 + 이메일 - `contact.only@sserve.me`
