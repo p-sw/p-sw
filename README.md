@@ -11,13 +11,7 @@ in South Korea.
 + HTML & CSS & JAVASCRIPT (Not expert, but used in some projects)
 
 ## Released Projects
-+ [TypeSense](https://github.com/sserve-kr/TypeSense)
-+ [HitomiTagBot](https://github.com/sserve-kr/HitomiTagBot)
-+ [Github Pages Blog](https://svblog.me)
-+ [Django Blog](https://svdev.studio)
-+ [STDICT Word Database](https://github.com/sserve-kr/STDICT_WORD_DB)
-+ [Simple Calculator](https://github.com/sserve-kr/simple-calculator)
-+ [QCS - Quick Clipboard Share](https://qcs.sserve.work)
+[My Projects](https://projects.sserve.work)
 
 ## Contact
 + Email - `contact.only@sserve.me`
