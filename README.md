@@ -3,10 +3,9 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-sw&layout=compact" alt="Top Langs" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shinwoo" alt="Shinwoo's wakatime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shinwoo" alt="Shinwoo's wakatime stats" />
 </div>
 
-English | [한국어](https://github.com/sserve-kr/sserve-kr/blob/main/README.korean.md)
 # Hello!
 Programmer, Web Developer, Python.  
 I am a student & programmer  
