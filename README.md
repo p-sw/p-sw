@@ -17,11 +17,12 @@ in South Korea.
   + FastAPI
   + Flask
 + HTML & CSS
-+ Javascript
-  + VueJS
 + Typescript
   + React
   + NextJS
+  + Remix
+  + Blitzjs
++ Rust (Learning, not good at this)
 
 ## Major Projects
 + [Nyanlang](https://github.com/Nyanlang/Nyanlang)
