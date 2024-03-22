@@ -55,6 +55,12 @@ Fast-growing fullstack engineer
 - 2024/02~ : 메이비 커뮤니티 풀스택 엔지니어
 ```
 
+Links: 
+* [Team Devbench](https://devbench.kr)
+* [Team Worplo](https://github.com/worplo)
+* [Nyanlang](https://github.com/nyanlang)
+* [Maybe](https://maybe.or.kr)
+
 ### Socials
            
 <p align="left">
