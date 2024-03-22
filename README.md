@@ -10,7 +10,9 @@ I started my web development with python and pure HTML & CSS & Javascript, and t
 *   🖥️  See my portfolio at [psw.kr](https://psw.kr)
 *   ✉️  You can contact me at [shinwoo.park@psw.kr](mailto:shinwoo.park@psw.kr)
 *   🚀  I'm currently working on [Devbench](https://devbench.kr)
-*   🧠  I'm learning Svelte & SvelteKit for frontend, NestJS for backend, Kubernetes for deployment### Skills 
+*   🧠  I'm learning Svelte & SvelteKit for frontend, NestJS for backend, Kubernetes for deployment
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
