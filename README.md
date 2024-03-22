@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Fullstack Developer
 -----------------------
 
-I started my web development with python and pure HTML & CSS & Javascript, and then I found React and NextJS, so now I'm primarily doing frontend jobs. Also actively learning NestJS... I had deployed my apps a lot. Not only vercel and Netlify, I also deployed on EC2 and other VPS. Since I also experienced Docker.
+Fast-growing fullstack engineer
+
+* Interactive & Responsive Frontend Development
+* Well Structured & Safe Backend Development
+* 
 
 *   🌍  I'm based in Incheon, South Korea
 *   🖥️  See my portfolio at [psw.kr](https://psw.kr)
