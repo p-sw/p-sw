@@ -9,6 +9,7 @@ Fast-growing fullstack engineer
 * Interactive & Responsive Frontend Development
 * Well Structured & Safe Backend Development
 
+--- 
 
 *   🌍  I'm based in Incheon, South Korea
 *   🖥️  See my portfolio at [psw.kr](https://psw.kr)
