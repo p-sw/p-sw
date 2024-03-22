@@ -36,6 +36,18 @@ I started my web development with python and pure HTML & CSS & Javascript, and t
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+## Careers
+```md
+- 2023/03~ : Fullstack Engineer of Team DevBench
+- 2023/11~ : Technical Leader of Team Worplo
+- 2024/02~ : Fullstack Engineer of Maybe Community
+```
+```md
+- 2023/03~ : 팀 디벤치 풀스택 엔지니어
+- 2023/11~ : 팀 워플로 테크니컬 리더
+- 2024/02~ : 메이비 커뮤니티 풀스택 엔지니어
+```
+
 ### Socials
            
 <p align="left">
