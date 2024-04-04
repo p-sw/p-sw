@@ -12,7 +12,7 @@ Fast-growing fullstack engineer
 *   🌍  I'm based in Incheon, South Korea
 *   🖥️  See my portfolio at [psw.kr](https://psw.kr)
 *   ✉️  You can contact me at [shinwoo.park@psw.kr](mailto:shinwoo.park@psw.kr)
-*   🚀  I'm currently working on [Devbench](https://devbench.kr)
+*   🚀  I'm currently working on [Devbench](https://devbench.kr), [Team Worplo](https://github.com/Worplo)
 *   🧠  I'm learning React & NextJS, Svelte & SvelteKit for frontend, NestJS for backend
 
 ### Skills
@@ -61,16 +61,13 @@ Fast-growing fullstack engineer
 - 2023/11~ : Fullstack Engineer of [Team Worplo](https://github.com/worplo)
 - 2024/02~ : Fullstack Engineer of [Maybe Community](https://maybe.or.kr)
 
-### Links
-
-* [Team Devbench](https://devbench.kr)
-* [Team Worplo](https://github.com/worplo)
-* [Nyanlang](https://github.com/nyanlang)
-* [Maybe](https://maybe.or.kr)
-
 ## Side Projects
 
-### Socials
+* Nyanlang - [[Github](https://github.com/nyanlang) | [Website](https://nyanlang.org)]
+* NestLogged - [[Github](https://github.com/worplo/nestlogged) | [Website](https://nestlogged.worplo.com)]
+* Jsonenv - [[Github](https://github.com/worplo/jsonenv)]
+
+## Socials
            
 <p align="left">
   <a href="https://discord.com/users/pswkr" target="_blank" rel="noreferrer">
@@ -87,9 +84,16 @@ Fast-growing fullstack engineer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
+  <a href="https://instagram.com/pswdev" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    </picture>
+  </a>
 </p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
