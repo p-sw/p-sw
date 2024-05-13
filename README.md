@@ -103,14 +103,14 @@ Fast-growing fullstack engineer
 
 ## Badges
 
-<b>My GitHub Stats</b>
-
+<b>Commits & Strikes</b>
+<br />
 <a href="http://www.github.com/p-sw" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=p-sw&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="p-sw's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-sw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 <br />
 
-<a href="http://www.github.com/p-sw" align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-sw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<b>Coding Times</b>
+<br/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Shinwoo/416bdff5-0179-4fb0-8822-5b4e64830c25.png" /></a>
