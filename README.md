@@ -2,6 +2,9 @@
 
 ## Web Fullstack Developer
 
+<a href="https://wakatime.com/@81e72218-051b-4c47-99aa-08d6625dc409"><img src="https://wakatime.com/badge/user/81e72218-051b-4c47-99aa-08d6625dc409.svg" alt="Total time coded since Nov 30 2022" /></a>
+<br/>
+
 Fast-growing fullstack engineer
 
 * Interactive & Responsive Frontend Development
