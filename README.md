@@ -61,9 +61,8 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 
 ## Careers
 
-- 2023/03~ : Fullstack Engineer of [Team DevBench](https://devbench.kr)
-- 2023/11~ : Fullstack Engineer of [Team Worplo](https://github.com/worplo)
-- 2024/02~ : Fullstack Engineer of [Maybe Community](https://maybe.or.kr)
+- 2023/03~ : Frontend & Backend Engineer of [Team DevBench](https://devbench.kr)
+- 2024/02~ : Frontend & Backend Engineer of [Maybe Community](https://maybe.or.kr)
 
 ## Side Projects
 
