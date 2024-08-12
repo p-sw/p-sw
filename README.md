@@ -4,7 +4,15 @@
   
 ## Web Frontend Developer 
  
-<a href="https://wakatime.com/@81e72218-051b-4c47-99aa-08d6625dc409"><img src="https://wakatime.com/badge/user/81e72218-051b-4c47-99aa-08d6625dc409.svg" alt="Total time coded since Nov 30 2022" /></a>
+<a href="https://wakapi.com">
+ <img src="https://wakapi.dev/api/badge/pswkr/interval:today?label=today" />
+</a>
+<a href="https://wakapi.com">
+ <img src="https://wakapi.dev/api/badge/pswkr/pswkr/interval:30_days?label=last%2030d" />
+</a>
+<a href="https://wakapi.com">
+ <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/pswkr/interval:all_time&label=All%20time&color=blue" />
+</a>
 <br/>
 
 Fast-growing frontend (with little bit of backend & linux) engineer
@@ -116,4 +124,6 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 
 <b>Coding Times</b>
 <br/>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Shinwoo/416bdff5-0179-4fb0-8822-5b4e64830c25.png" /></a>
+<a href="https://wakapi.dev" align="left">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pswkr&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" />
+</a>
