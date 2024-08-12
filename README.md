@@ -62,7 +62,7 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 ## Careers
 
 - 2023/03~ : Frontend & Backend Engineer of [Team DevBench](https://devbench.kr)
-- 2024/02~ : Frontend & Backend Engineer of [Maybe Community](https://maybe.or.kr)
+- 2024/02~ : Frontend Engineer & Project Manager of [Maybe Community](https://maybe.or.kr)
 
 ## Side Projects
 
