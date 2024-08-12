@@ -24,7 +24,9 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 *   🌍  I'm based in Incheon, South Korea
 *   🖥️  See my portfolio at [psw.kr](https://psw.kr)
 *   ✉️  You can contact me at [shinwoo.park@psw.kr](mailto:shinwoo.park@psw.kr)
-*   🚀  I'm currently working on [Devbench](https://devbench.kr), [Team Worplo](https://github.com/Worplo)
+*   🚀  I'm currently working on:
+    * [@devbench](https://github.com/hk4dev) ([Web](https://devbench.kr))
+    * [@maybe-us](https://github.com/maybe-us) ([Discord](https://discord.com/invite/maybe))
 *   🧠  I'm learning React & NextJS, Svelte & SvelteKit for frontend, NestJS for backend
 
 ### Skills
