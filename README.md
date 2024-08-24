@@ -135,5 +135,5 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 <b>Activity Grass</b>
 <br/>
 <a href="https://wakapi.dev" align="left">
- <img src="https://wakapi.dev/api/activity/chart/pswkr.svg?bg_color=1A202C" />
+ <img src="https://wakapi.dev/api/activity/chart/pswkr.svg?dark&noattr" />
 </a>
