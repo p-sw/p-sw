@@ -122,18 +122,5 @@ Fast-growing frontend (with little bit of backend & linux) engineer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-sw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-<br />
-
-<b>Coding Times</b>
-<br/>
-<a href="https://wakapi.dev" align="left">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pswkr&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" />
-</a>
-
-<br />
-
-<b>Activity Grass</b>
-<br/>
-<a href="https://wakapi.dev" align="left">
- <img src="https://wakapi.dev/api/activity/chart/pswkr.svg?dark&noattr" />
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
