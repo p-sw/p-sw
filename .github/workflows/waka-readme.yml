@@ -19,6 +19,5 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: all_time
           LANG_COUNT: 5
-          SHOW_TIME: true
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: YAML JSON TOML
