@@ -1,16 +1,16 @@
 > Meet my brand new UI library at [here!](https://ui.psw.kr)
  
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shinwoo PARK
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shinwoo PARK
   
 ## Web Frontend Developer 
  
-<a href="https://wakapi.com">
+<a href="https://wakapi.dev">
  <img src="https://wakapi.dev/api/badge/pswkr/interval:today?label=today" />
 </a>
-<a href="https://wakapi.com">
+<a href="https://wakapi.dev">
  <img src="https://wakapi.dev/api/badge/pswkr/pswkr/interval:30_days?label=last%2030d" />
 </a>
-<a href="https://wakapi.com">
+<a href="https://wakapi.dev">
  <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/pswkr/interval:all_time&label=All%20time&color=blue" />
 </a>
 <br/>
@@ -122,6 +122,7 @@ Fast-growing frontend (with little bit of backend & linux) engineer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-sw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
+## Coding Stats
 <!--START_SECTION:waka-->
 
 ```txt
@@ -136,3 +137,12 @@ typescript       4 hrs 31 mins   █▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## Typing Stats
+
+ <a href="https://monkeytype.com/profile/sserve">
+   <img src="https://raw.githubusercontent.com/p-sw/p-sw/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" />
+ </a>
+  <a href="https://monkeytype.com/profile/sserve">
+   <img src="https://raw.githubusercontent.com/p-sw/p-sw/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype personal bests" />
+ </a>
