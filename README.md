@@ -128,13 +128,13 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 ```txt
 From: 12 August 2024 - To: 28 December 2024
 
-Total Time: 146 hrs 24 mins
+Total Time: 146 hrs 50 mins
 
-TypeScript       36 hrs 3 mins   ██████░░░░░░░░░░░░░░░░░░░   24.63 %
-TSX              35 hrs 31 mins  ██████░░░░░░░░░░░░░░░░░░░   24.26 %
-JavaScript       34 hrs 46 mins  ██████░░░░░░░░░░░░░░░░░░░   23.75 %
-CSS              7 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-typescript       4 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+TypeScript       36 hrs 3 mins   ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+TSX              35 hrs 31 mins  ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+JavaScript       34 hrs 46 mins  ██████░░░░░░░░░░░░░░░░░░░   23.68 %
+CSS              7 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+typescript       4 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
