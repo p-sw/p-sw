@@ -126,7 +126,7 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2024 - To: 23 February 2025
+From: 13 August 2024 - To: 24 February 2025
 
 Total Time: 150 hrs 38 mins
 
