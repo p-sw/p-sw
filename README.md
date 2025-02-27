@@ -3,17 +3,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shinwoo PARK
   
 ## Web Frontend Developer 
- 
-<a href="https://wakapi.dev">
- <img src="https://wakapi.dev/api/badge/pswkr/interval:today?label=today" />
-</a>
-<a href="https://wakapi.dev">
- <img src="https://wakapi.dev/api/badge/pswkr/pswkr/interval:30_days?label=last%2030d" />
-</a>
-<a href="https://wakapi.dev">
- <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/pswkr/interval:all_time&label=All%20time&color=blue" />
-</a>
-<br/>
 
 Fast-growing frontend (with little bit of backend & linux) engineer
  
