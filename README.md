@@ -14,7 +14,6 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 *   🖥️  See my portfolio at [psw.kr](https://psw.kr)
 *   ✉️  You can contact me at [shinwoo.park@psw.kr](mailto:shinwoo.park@psw.kr)
 *   🚀  I'm currently working on:
-    * [@devbench](https://github.com/hk4dev) ([Web](https://devbench.kr))
     * [@maybe-us](https://github.com/maybe-us) ([Discord](https://discord.com/invite/maybe))
 *   🧠  I'm learning React & NextJS, Svelte & SvelteKit for frontend, NestJS for backend
 
@@ -60,15 +59,16 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 
 ## Careers
 
-- 2023/03~ : Frontend & Backend Engineer of [Team DevBench](https://devbench.kr)
+- 2023/03~2024/10 : Frontend & Backend Engineer of [Team DevBench](https://devbench.kr)
 - 2024/02~ : Frontend Engineer & Project Manager of [Maybe Community](https://maybe.or.kr)
 
 ## Side Projects
 
 * Nyanlang - [[Github](https://github.com/nyanlang) | [Website](https://nyanlang.org)]
-* NestLogged - [[Github](https://github.com/worplo/nestlogged) | [Website](https://nestlogged.worplo.com)]
-* Jsonenv - [[Github](https://github.com/worplo/jsonenv)]
-* React-utils - [[Github](https://github.com/worplo/react-utils)]
+* NestLogged - [[Github](https://github.com/p-sw/nestlogged) | [Website](https://nestlogged.worplo.com)]
+* Jsonenv - [[Github](https://github.com/p-sw/jsonenv)]
+* React-utils - [[Github](https://github.com/p-sw/react-utils)]
+* PSWUI - [[Github](https://github.com/pswui/ui) | [Website](https://ui.psw.kr)]
 
 ## Socials
            
