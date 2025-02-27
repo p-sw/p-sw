@@ -68,6 +68,7 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 * Jsonenv - [[Github](https://github.com/p-sw/jsonenv)]
 * React-utils - [[Github](https://github.com/p-sw/react-utils)]
 * PSWUI - [[Github](https://github.com/pswui/ui) | [Website](https://ui.psw.kr)]
+* Steambus - [[Github](https://github.com/steambus-kr) | ~~[Website](https://steambus.kr)~~]
 
 ## Socials
            
@@ -101,33 +102,3 @@ Fast-growing frontend (with little bit of backend & linux) engineer
     </picture>
   </a>
 </p>
-
-## Badges
-
-<b>Commits & Strikes</b>
-<br />
-<a href="http://www.github.com/p-sw" align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-sw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-## Coding Stats
-<!--START_SECTION:waka-->
-
-```txt
-From: 13 August 2024 - To: 27 February 2025
-
-Total Time: 151 hrs 10 mins
-
-TSX              37 hrs 14 mins  ██████░░░░░░░░░░░░░░░░░░░   24.63 %
-TypeScript       36 hrs 27 mins  ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-JavaScript       34 hrs 51 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-CSS              7 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-```
-
-<!--END_SECTION:waka-->
-
-## Typing Stats
-
-  <a href="https://monkeytype.com/profile/sserve">
-   <img src="https://raw.githubusercontent.com/p-sw/p-sw/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype personal bests" />
- </a>
