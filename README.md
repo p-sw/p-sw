@@ -15,7 +15,6 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 *   ✉️  You can contact me at [shinwoo.park@psw.kr](mailto:shinwoo.park@psw.kr)
 *   🚀  I'm currently working on:
     * [@maybe-us](https://github.com/maybe-us) ([Discord](https://discord.com/invite/maybe))
-*   🧠  I'm learning React & NextJS, Svelte & SvelteKit for frontend, NestJS for backend
 
 ### Skills
 <p align="left">
