@@ -1,4 +1,6 @@
-> Meet my brand new UI library at [here!](https://ui.psw.kr)
+> Military service (2025.08.12 ~ 2027.02.11)
+
+> My Client-first AI chat application is [here!](https://chat.psw.kr) (no login or something, just you, LLM, and some tools that will make your life easier)
  
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shinwoo PARK
   
@@ -64,11 +66,12 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 ## Side Projects
 
 * Nyanlang - [[Github](https://github.com/nyanlang) | [Website](https://nyanlang.org)]
-* NestLogged - [[Github](https://github.com/p-sw/nestlogged) | [Website](https://nestlogged.worplo.com)]
+* NestLogged - [[Github](https://github.com/p-sw/nestlogged) | [Website](https://nestlogged.psw.kr)]
 * Jsonenv - [[Github](https://github.com/p-sw/jsonenv)]
-* React-utils - [[Github](https://github.com/p-sw/react-utils)]
+* React-utils - ~~[[Github](https://github.com/p-sw/react-utils)]~~
 * PSWUI - [[Github](https://github.com/pswui/ui) | [Website](https://ui.psw.kr)]
 * Steambus - [[Github](https://github.com/steambus-kr) | ~~[Website](https://steambus.kr)~~]
+* Theta - [[Github](https://github.com/p-sw/theta) | [Website](https://chat.psw.kr)]
 
 ## Socials
            
