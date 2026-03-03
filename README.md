@@ -1,6 +1,4 @@
 > Military service (2025.08.12 ~ 2027.02.11)
-
-> My Client-first AI chat application is [here!](https://chat.psw.kr) (no login or something, just you, LLM, and some tools that will make your life easier)
  
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shinwoo PARK
   
@@ -61,7 +59,7 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 ## Careers
 
 - 2023/03~2024/10 : Frontend & Backend Engineer of [Team DevBench](https://devbench.kr)
-- 2024/02~ : Frontend Engineer & Project Manager of [Maybe Community](https://maybe.or.kr)
+- 2024/02~2026/01 : Frontend Engineer & Project Manager of [Maybe Community](https://maybe.or.kr)
 
 ## Side Projects
 
@@ -72,6 +70,7 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 * PSWUI - [[Github](https://github.com/pswui/ui) | [Website](https://ui.psw.kr)]
 * Steambus - [[Github](https://github.com/steambus-kr) | ~~[Website](https://steambus.kr)~~]
 * Theta - [[Github](https://github.com/p-sw/theta) | [Website](https://chat.psw.kr)]
+* Protobuild - [[Github](https://github.com/p-sw/protobuild) | [Website](https://protobuild.psw.kr]]
 
 ## Socials
            
