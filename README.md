@@ -70,7 +70,7 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 * PSWUI - [[Github](https://github.com/pswui/ui) | [Website](https://ui.psw.kr)]
 * Steambus - [[Github](https://github.com/steambus-kr) | ~~[Website](https://steambus.kr)~~]
 * Theta - [[Github](https://github.com/p-sw/theta) | [Website](https://chat.psw.kr)]
-* Protobuild - [[Github](https://github.com/p-sw/protobuild) | [Website](https://protobuild.psw.kr]]
+* Protobuild - [[Github](https://github.com/p-sw/protobuild) | [Website](https://protobuild.psw.kr)]
 
 ## Socials
            
