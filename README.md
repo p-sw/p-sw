@@ -24,13 +24,12 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 
 ## Side Projects
 
-* Nyanlang - [[Github](https://github.com/nyanlang) | [Website](https://nyanlang.org)]
+* Nyanlang - [[Github](https://github.com/nyanlang) | ~~[Website](https://nyanlang.org)~~]
 * NestLogged - [[Github](https://github.com/p-sw/nestlogged) | [Website](https://nestlogged.psw.kr)]
 * Jsonenv - [[Github](https://github.com/p-sw/jsonenv)]
-* React-utils - ~~[[Github](https://github.com/p-sw/react-utils)]~~
 * PSWUI - [[Github](https://github.com/pswui/ui) | [Website](https://ui.psw.kr)]
 * Steambus - [[Github](https://github.com/steambus-kr) | ~~[Website](https://steambus.kr)~~]
-* Theta - [[Github](https://github.com/p-sw/theta) | [Website](https://chat.psw.kr)]
+* Theta - [[Github](https://github.com/p-sw/theta) | ~~[Website](https://chat.psw.kr)~~]
 * Protobuild - [[Github](https://github.com/p-sw/protobuild) | [Website](https://protobuild.psw.kr)]
 
 ## Socials
