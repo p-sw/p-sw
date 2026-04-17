@@ -18,9 +18,9 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 
 ## Careers
 
-- 2023/03~2024/10 : Frontend & Backend Engineer of [Team DevBench](https://devbench.kr)
+- 2023/03~2024/10 : Fullstack Engineer of [Team DevBench](https://devbench.kr)
 - 2024/02~2026/01 : Frontend Engineer & Project Manager of [Maybe Community](https://maybe.or.kr)
-- 2025/12~ [PetDoc](https://gitea.hiplay.kr/PetDoc/)
+- 2025/12~ : Fullstack Engineer of [PetDoc](https://gitea.hiplay.kr/PetDoc/)
 
 ## Side Projects
 
