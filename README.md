@@ -1,5 +1,7 @@
 > Military service (2025.08.12 ~ 2027.02.11)
  
+> My self-hosted git [here](https://git.psw.kr)
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shinwoo PARK
   
 ## Web Frontend Developer 
@@ -31,8 +33,8 @@ Fast-growing frontend (with little bit of backend & linux) engineer
 * Steambus - [[Github](https://github.com/steambus-kr) | ~~[Website](https://steambus.kr)~~]
 * Theta - [[Github](https://github.com/p-sw/theta) | ~~[Website](https://chat.psw.kr)~~]
 * Protobuild - [[Github](https://github.com/p-sw/protobuild) | [Website](https://protobuild.psw.kr)]
-* CodexDash - [[Github](https://git.psw.kr/p-sw/CodexDash) | [Website](https://cd.psw.kr)]
-* IdentityDB - [[Github](https://git.psw.kr/p-sw/IdentityDB)]
+* CodexDash - [[Gitea](https://git.psw.kr/p-sw/CodexDash) | [Website](https://cd.psw.kr)]
+* IdentityDB - [[Gitea](https://git.psw.kr/p-sw/IdentityDB)]
 
 ## Socials
            
